@@ -10,3 +10,9 @@ All meshes added to this repository should be .amf files. They have both shared 
 - Folders for each Model
   - Within Make folders
   - Name must  mach MatterControl's
+
+## File Types
+- AMF files
+- Image files
+- .library files
+  - You can upload library files to link to other GitHub repositories that can be viewed as folders in MatterControl
