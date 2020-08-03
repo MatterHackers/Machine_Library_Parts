@@ -13,6 +13,7 @@ All meshes added to this repository should be .amf files. They have both shared 
 
 ## File Types
 - AMF files
-- Image files
+- STL files
+- Image files (PNG, JPG, etc.)
 - .library files
   - You can upload library files to link to other GitHub repositories that can be viewed as folders in MatterControl
